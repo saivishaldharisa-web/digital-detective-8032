@@ -1,1 +1,2 @@
 Learning terminal commands
+This is the second line
