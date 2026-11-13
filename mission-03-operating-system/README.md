@@ -1,29 +1,69 @@
-# Mission 3 - Operating Systems
+# Mission 3 - Exploring the Operating System
 
-## 1. Commands Used
+## Work Completed
 
-- `sw_vers` – Shows macOS version.
-- `whoami` – Shows username.
-- `df -h` – Shows disk usage.
-- `top -l 1` – Shows running processes.
+### Exploring the Operating System
 
-## 2. Basic Concepts
+I used Terminal commands to learn more about my macOS system.
 
-- **Process:** A running program.
-- **PID:** Unique ID of a process.
-- **Absolute Path:** Complete file path.
-- **Relative Path:** Path from the current directory.
+| Command | Purpose |
+|---|---|
+| `sw_vers` | Displays macOS version information |
+| `whoami` | Displays the current username |
+| `df -h` | Shows disk space usage |
+| `top -l 1` | Displays a snapshot of running processes |
 
-## 3. File Permissions
+### Understanding Processes
 
-- `r` – Read
-- `w` – Write
-- `x` – Execute
+A process is a program that is currently running on a computer.
 
-## 4. Operating System
+A PID (Process ID) is a unique number assigned by the operating system to identify a running process.
 
-An operating system manages hardware, memory, files and running programs.
+Examples of processes include Finder and Terminal.
 
-## 5. What I Learned
+### Paths
 
-I learned basic OS commands, processes, paths and file permissions.
+There are two common types of paths:
+
+- **Absolute Path:** The complete path starting from the root directory `/`.
+- **Relative Path:** The path based on the current working directory.
+
+### File Permissions
+
+File permissions control what users can do with files and folders.
+
+| Permission | Meaning |
+|---|---|
+| `r` | Read |
+| `w` | Write |
+| `x` | Execute |
+
+### Responsibilities of an Operating System
+
+| Responsibility | Explanation |
+|---|---|
+| Process Management | Manages running programs |
+| Memory Management | Allocates memory to programs |
+| File Management | Organises files and folders |
+| Device Management | Manages connected hardware |
+| Security | Controls access and permissions |
+
+## My Understanding
+
+I understood that an operating system manages the hardware and software resources of a computer. It also manages memory, files, processes and permissions.
+
+## Difficulties Faced
+
+I initially found it difficult to understand the output of commands such as `df -h` and `top`.
+
+## How I Resolved Them
+
+I practised the commands and learned what each command displays.
+
+## Evidence
+
+![Mission 3 Operating System Screenshot](image.png)
+
+## Commit Details
+
+The operating system concepts and practical work were documented and pushed to GitHub.

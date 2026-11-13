@@ -1,29 +1,61 @@
 # Mission 7 - Networking
 
-## 1. Basic Concepts
+## Work Completed
 
-- **LAN:** Network used in a small area like a home or college.
-- **MAN:** Network covering a city.
-- **WAN:** Network covering large geographical areas.
-- **DNS:** Converts website names into IP addresses.
-- **Router:** Connects different networks.
-- **Protocol:** Rules used for communication between devices.
-- **Packet Switching:** Data is divided into small packets and sent over a network.
-- **Client-Server:** A client requests information and a server provides it.
+### Basic Networking Concepts
 
-## 2. Practical Work
+| Concept | Explanation |
+|---|---|
+| LAN | A network used in a small area, such as a home or college |
+| MAN | A network that covers a city |
+| WAN | A network that covers large geographical areas |
+| DNS | Converts website names into IP addresses |
+| Router | Connects different networks |
+| Protocol | Rules used for communication between devices |
+| Packet Switching | Divides data into small packets for transmission |
+| Client-Server | A system where a client requests information from a server |
 
-I used `ping -c 4 example.com` to check network connectivity and `nslookup example.com` to check DNS information.
+### Practical Work
 
-## 3. How a Website Works
+I used the following commands to understand basic networking.
+
+```bash
+ping -c 4 example.com
+```
+
+This command checks whether a connection can be made to a server.
+
+```bash
+nslookup example.com
+```
+
+This command checks DNS information for a domain name.
+
+### How a Website Works
 
 1. I enter a website address in the browser.
-2. DNS finds its IP address.
+2. DNS finds the IP address of the website.
 3. The browser sends a request to the server.
-4. The server processes the request.
-5. The server sends a response.
+4. The server receives and processes the request.
+5. The server sends the requested information back.
 6. The browser displays the website.
 
-## 4. What I Learned
+## My Understanding
 
-I learned basic networking concepts and how websites communicate over the internet.
+I learned how devices communicate through networks and how DNS helps browsers find websites. I also understood how a browser communicates with a server to load a webpage.
+
+## Difficulties Faced
+
+I initially found it difficult to understand DNS, IP addresses and how data travels between devices.
+
+## How I Resolved Them
+
+I studied the basic networking concepts and used Terminal commands to understand network connectivity and DNS lookup.
+
+## Evidence
+
+The networking concepts and practical commands are documented in this README file.
+
+## Commit Details
+
+The networking notes and README were committed and pushed to GitHub.

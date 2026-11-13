@@ -1,37 +1,49 @@
-# Mission 0 - GitHub Workspace Setup
+# Mission 0 - Repository and Workspace Setup
 
-## What I Had to Do
-The main task was to create a GitHub repository and arrange all the assignment files in different folders.
+## Work Completed
 
-## What I Did
-- Created a folder for the assignment in my laptop.
+The main task was to create a GitHub repository and organise all the assignment files into separate folders.
+
+- Created a project folder on my laptop.
 - Created separate folders for all 9 missions.
 - Added README files inside the mission folders.
 - Created an evidence folder.
 - Created a public repository on GitHub.
-- Connected my local folder with GitHub and uploaded the files.
+- Connected my local project folder to GitHub.
+- Uploaded my assignment files.
 
-## Commands I Used
-- `mkdir` - To create folders.
-- `touch` - To create files.
-- `git init` - To start Git in my project.
-- `git add .` - To add files for committing.
-- `git commit` - To save my changes.
-- `git push` - To upload files to GitHub.
+## Commands Used
 
-## What I Understood
-I understood how to create folders and files using the terminal. I also learned how to connect my local project to GitHub and upload my work.
+| Command | Purpose |
+|---|---|
+| `mkdir` | Creates folders |
+| `mkdir -p` | Creates nested folders |
+| `touch` | Creates files |
+| `ls` | Lists files and folders |
+| `git init` | Initialises Git |
+| `git add .` | Stages changes |
+| `git commit` | Saves changes |
+| `git push` | Uploads changes to GitHub |
 
-## Problems I Faced
-At first, I got an error while connecting GitHub because I had not initialized Git in my folder.
+## My Understanding
 
-## How I Fixed It
-I used the `git init` command first. After that, I connected my GitHub repository and pushed the files.
+I understood how to create a project structure using Terminal. I also learned how Git connects my local files with a remote GitHub repository.
 
-## GitHub Repository
-https://github.com/saivishaldharisa-web/digital-detective-8032
+## Difficulties Faced
+
+Initially, I was confused about creating multiple folders and connecting the local repository to GitHub. I also faced some errors while pushing changes.
+
+## How I Resolved Them
+
+I practised the commands and checked the errors. I also learned how to check the Git status and push the changes correctly.
+
+## Files
+
+- Root README.md
+- Mission 0 to Mission 8 folders
+- Evidence folder
+- Python files used in the assignment
 
 ## Commit Details
-Commit message: Initial project setup
 
-Branch: main
+I used Git commits to save the project setup and uploaded the work to GitHub.
