@@ -1,38 +1,72 @@
-# Mission 2 - Terminal Commands
+# Mission 2 - Terminal and File Management
 
-## 1. Basic Commands
+## Work Completed
 
-I used the following commands to work with files and directories.
+### Basic Terminal Operations
 
-- `pwd` – Shows the current directory.
-- `ls` – Lists files and folders.
-- `ls -l` – Shows files with detailed information.
-- `cd ..` – Moves to the parent directory.
-- `mkdir` – Creates a new directory.
-- `touch` – Creates a new file.
-- `cp` – Copies files.
-- `mv` – Moves or renames files.
-- `cat` – Displays file contents.
+I practised different Terminal commands to understand how files and folders are managed.
 
-## 2. File Operations
+| Operation | Command | What It Does |
+|---|---|---|
+| Current directory | `pwd` | Shows the current folder path |
+| List files | `ls` | Lists files and folders |
+| Detailed listing | `ls -l` | Shows detailed file information |
+| Move to parent | `cd ..` | Moves to the parent folder |
+| Create folder | `mkdir` | Creates a new folder |
+| Create file | `touch` | Creates an empty file |
+| Copy file | `cp` | Creates a copy of a file |
+| Move or rename | `mv` | Moves or renames a file |
+| Read file | `cat` | Displays file contents |
 
-I created folders and files using Terminal. I also practised copying, moving and renaming files.
+### File Operations
 
-I used `echo` to add text to a file and `cat` to check its contents.
+I created a folder called `terminal-practice` and practised creating, copying and renaming files.
 
-## 3. Flags and Pipes
+I used `echo` to write text into a file.
 
-Flags are used to change how a command works. For example, `ls -l` displays detailed file information.
+- `>` replaces the existing content.
+- `>>` adds new text at the end of the file.
 
-Pipes (`|`) are used to send the output of one command as input to another command.
+I used `cat` to check the contents after writing.
 
-## 4. Homebrew
+### Flags and Pipes
 
-I checked whether Homebrew was available using:
+A flag changes how a command works. For example:
+
+- `ls` displays a normal list.
+- `ls -l` displays a detailed list.
+
+A pipe (`|`) sends the output of one command as input to another command.
+
+Example:
+
+`ls -l | head`
+
+This displays the first few lines of the detailed listing.
+
+### Homebrew
+
+I checked Homebrew using these commands:
 
 - `brew --version`
 - `brew list`
 
-## 5. What I Learned
+## My Understanding
 
-I learned how to use Terminal to create, view, copy and rename files and folders. I also understood basic flags and pipes.
+I learned how to navigate through folders and manage files using Terminal. I also understood the difference between copying and moving files, and how flags and pipes are useful.
+
+## Difficulties Faced
+
+Initially, I was confused about the difference between `>` and `>>` and how to use pipes.
+
+## How I Resolved Them
+
+I practised the commands using sample files and checked the results using `cat` and `ls`.
+
+## Evidence
+
+![Mission 2 Terminal Screenshot](image.png)
+
+## Commit Details
+
+The Terminal practice and README file were committed and pushed to GitHub.

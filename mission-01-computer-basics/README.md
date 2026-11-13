@@ -1,63 +1,72 @@
-# Mission 1 - Computer Fundamentals
+# Mission 1 - Know Your Computer
 
-## 1. IPOS Cycle
+## Task / Objective
 
-IPOS stands for Input, Processing, Output and Storage. These are the four basic functions of a computer.
+The objective of this mission was to understand how a computer works and learn about its hardware, software and everyday uses.
 
-- **Input:** Giving data to the computer.
-- **Processing:** Working on the given data.
-- **Output:** Showing the final result.
-- **Storage:** Saving data for future use.
+## Work Completed
 
-**Example:** When I use a calculator to add 10 and 20, I enter the numbers, the calculator adds them, displays 30 and can save the calculation history.
+### IPOS Cycle
 
-## 2. Hardware and Software
+IPOS stands for Input, Processing, Output and Storage.
 
-### Hardware
+| Stage | Explanation | Example |
+|---|---|---|
+| Input | Data given to the computer | Entering numbers using a keyboard |
+| Processing | The computer works on the input | CPU performs the calculation |
+| Output | The final result is displayed | Result shown on the monitor |
+| Storage | Data is saved for future use | Saving a file on an SSD |
+
+**Example:** When I use a calculator to add 10 and 20, I enter the numbers, the processor performs the calculation, the result 30 is displayed and the calculation can be stored in history.
+
+### Hardware and Software
 
 Hardware means the physical parts of a computer that we can touch.
 
-- Keyboard – Input device
-- Mouse – Input device
-- Monitor – Output device
-- Printer – Output device
-- SSD – Storage device
-- CPU – Processing device
+| Hardware | Classification | Purpose |
+|---|---|---|
+| Keyboard | Input | Enters text and numbers |
+| Mouse | Input | Selects and clicks items |
+| Monitor | Output | Displays information |
+| Printer | Output | Prints documents |
+| SSD | Storage | Stores files |
+| CPU | Processing | Processes instructions |
 
-### Software
+Software means the programs and instructions that run on a computer.
 
-Software means the programs that run on a computer.
+| Software | Type | Purpose |
+|---|---|---|
+| macOS | Operating system | Manages computer resources |
+| Windows | Operating system | Runs and manages programs |
+| Google Chrome | Application software | Browses the internet |
+| VLC Media Player | Application software | Plays media files |
+| Microsoft Word | Application software | Creates documents |
+| Disk Cleanup | Utility software | Helps remove unnecessary files |
 
-- macOS – System software
-- Windows – System software
-- Google Chrome – Application software
-- VLC – Application software
-- Python – Programming language
-- VS Code – Application software
+### Computer-Based Systems Around Me
 
-**Difference:** Hardware is the physical part of a computer, while software contains the programs that make it work.
+| System | Purpose | Input | Output |
+|---|---|---|---|
+| ATM | Withdraw money | Card, PIN and amount | Cash and receipt |
+| Food Delivery App | Order food online | Food selection and address | Order confirmation |
+| Supermarket Billing System | Calculate the bill | Product barcode | Final bill and receipt |
 
-## 3. Computer-Based Systems
+## My Understanding
 
-### 1. ATM Machine
-- Purpose: To withdraw money.
-- Input: Card, PIN and amount.
-- Output: Cash and receipt.
+I learned how a computer takes input, processes it, produces output and stores information. I also understood the difference between hardware and software and how computer systems are used in everyday life.
 
-### 2. Food Delivery App
-- Purpose: To order food online.
-- Input: Food selection, address and payment.
-- Output: Order confirmation and delivery status.
+## Difficulties Faced
 
-### 3. Supermarket Billing System
-- Purpose: To calculate the total bill.
-- Input: Product barcode.
-- Output: Product price and final bill.
+At first, I was confused about classifying hardware and software. I also found it difficult to understand the four stages of IPOS.
 
-## 4. What I Learned
+## How I Resolved Them
 
-I learned how computers work and the difference between hardware and software. I also understood how computers are used in daily life.
+I used simple daily-life examples to understand the concepts and organised the information into tables.
 
-## 5. Difficulties Faced
+## Evidence
 
-I was initially confused about hardware and software classifications, but the examples helped me understand them.
+The work for this mission is documented in this README file.
+
+## Commit Details
+
+The mission work was saved using Git and pushed to GitHub.

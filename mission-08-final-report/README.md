@@ -1,27 +1,51 @@
 # Mission 8 - Final Report
 
-## 1. Introduction
+## Introduction
 
-This assignment helped me learn basic computer concepts and practical computer skills.
+This assignment helped me understand how computers work and gave me practical experience with different computer-related tools and concepts.
 
-## 2. Missions Completed
+## Missions Completed
 
-I worked on all the missions, including computer basics, terminal commands, operating systems, Python, number systems, GitHub and networking.
+I worked on all the missions from Mission 0 to Mission 8.
 
-## 3. Skills Learned
+| Mission | Topic | Work Completed |
+|---|---|---|
+| Mission 0 | Setup | Created the project structure and GitHub repository |
+| Mission 1 | Computer Basics | Learned IPOS, hardware and software |
+| Mission 2 | Terminal | Practised Terminal and file management commands |
+| Mission 3 | Operating System | Explored macOS, processes and permissions |
+| Mission 4 | Programs | Created and executed a Python program |
+| Mission 5 | Numbers and Data | Practised number conversions and Python |
+| Mission 6 | Git and GitHub | Practised Git commands, branches and Pull Requests |
+| Mission 7 | Networking | Learned networking concepts and website communication |
+| Mission 8 | Final Report | Reviewed and organised the assignment |
 
-- Basic computer knowledge
-- Terminal commands
-- File management
+## Skills Learned
+
+- Basic computer concepts
+- Terminal commands and file management
+- Operating system fundamentals
 - Python programming
-- Number conversions
+- Decimal, binary and hexadecimal conversions
 - Git and GitHub
-- Networking basics
+- Basic networking concepts
+- Writing and organising project documentation
 
-## 4. My Experience
+## My Experience
 
-I faced some difficulties while completing the tasks, but practising the commands and programs helped me understand them better.
+During this assignment, I faced some difficulties while using Terminal, understanding number conversions and working with Git. Practising the commands and checking the results helped me understand these topics better.
 
-## 5. Conclusion
+I also learned how to organise my work into folders and maintain it using GitHub.
 
-Overall, this assignment gave me a better understanding of computers and practical experience using different tools.
+## Final Repository Check
+
+- All mission folders are organised.
+- Each mission has its own README file.
+- Python program files are included.
+- Screenshots are added for Mission 2 and Mission 3.
+- The evidence folder is included.
+- The project is available on GitHub.
+
+## Conclusion
+
+Overall, this assignment gave me a better understanding of computers and helped me gain practical experience with Terminal, Python, GitHub and networking. It also improved my confidence in using these tools for future projects.
